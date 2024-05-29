@@ -1,4 +1,4 @@
-![An image on the left and text on the right.](images/image-text-section.png)
+![Een afbeelding aan de linkerkant en tekst aan de rechterkant.](images/image-text-section.png)
 
 ## --- code ---
 
@@ -10,12 +10,12 @@ line_numbers: false
 <section class="wrap">
     <img src="placeholder.png" alt="Description of the image.">
     <div>
-        <p>Add text here.</p>
+        <p>Voeg hier tekst toe.</p>
     </div>
 </section>
 
 \--- /code ---
 
-You can swap the order of the `<img>` and `<div>` elements if you want the text to come first.
+Je kunt de volgorde veranderen van de `<img>` en `<div>` elementen als je wilt dat de tekst eerst komt.
 
-![Text on the left and an image on the right.](images/text-image-section.png)
+![Tekst aan de linkerkant en een afbeelding aan de rechterkant.](images/text-image-section.png)
