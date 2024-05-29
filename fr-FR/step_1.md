@@ -1,4 +1,4 @@
-![An image on the left and text on the right.](images/image-text-section.png)
+![Une image à gauche et un texte à droite.](images/image-text-section.png)
 
 ## --- code ---
 
@@ -10,12 +10,12 @@ line_numbers: false
 <section class="wrap">
     <img src="placeholder.png" alt="Description of the image.">
     <div>
-        <p>Add text here.</p>
+        <p>Ajoute du texte ici.</p>
     </div>
 </section>
 
 \--- /code ---
 
-You can swap the order of the `<img>` and `<div>` elements if you want the text to come first.
+Tu peux intervertir l'ordre des éléments `<img>` et `<div>` si tu veux que le texte passe en premier.
 
-![Text on the left and an image on the right.](images/text-image-section.png)
+![Un texte à gauche et une image à droite.](images/text-image-section.png)
