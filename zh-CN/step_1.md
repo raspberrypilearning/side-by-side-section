@@ -1,4 +1,4 @@
-![An image on the left and text on the right.](images/image-text-section.png)
+![左边是图片，右边是文字。](images/image-text-section.png)
 
 ## --- code ---
 
@@ -10,12 +10,12 @@ line_numbers: false
 <section class="wrap">
     <img src="placeholder.png" alt="Description of the image.">
     <div>
-        <p>Add text here.</p>
+        <p>在此处添加文本。</p>
     </div>
 </section>
 
 \--- /code ---
 
-You can swap the order of the `<img>` and `<div>` elements if you want the text to come first.
+如果您希望文本优先显示，可以交换 `<0>` 和 `<1>` 元素的顺序。
 
-![Text on the left and an image on the right.](images/text-image-section.png)
+![左边是文字，右边是图片。](images/text-image-section.png)
