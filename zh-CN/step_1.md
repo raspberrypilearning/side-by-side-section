@@ -16,6 +16,6 @@ line_numbers: false
 
 \--- /code ---
 
-如果您希望文本优先显示，可以交换 `<0>` 和 `<1>` 元素的顺序。
+如果您希望文本优先显示，可以交换 `<img>` 和 `<div>` 元素的顺序。
 
 ![左边是文字，右边是图片。](images/text-image-section.png)
